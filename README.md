@@ -1,7 +1,7 @@
 # ComputerScience-BooksTech
 
-###Developed by: Amruta-kabade
-(Developed as a hobby project)
+### Developed by: Amruta-kabade
+
 
 The project is developed in order to provide access to computer science subject books at one place on the website.
 

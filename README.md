@@ -3,7 +3,7 @@
 ### Developed by: Amruta-kabade
 
 
-The project is developed in order to provide access to computer science subject books all at one place. click on any of these links to visit the website and Keep Learning https://amruta-kabade.github.io/LearnIt/ or https://bookstechcse.azurewebsites.net/ .
+The project is developed in order to provide access to computer science subject books all at one place. click on any of these links to visit the website and Keep Learning https://amruta-kabade.github.io/LearnIt/ or  https://victorious-sand-030df6010.2.azurestaticapps.net/.
 
 Subjects Included:
 1. Calculus
